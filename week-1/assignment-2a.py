@@ -1,0 +1,10 @@
+# design a logo
+print("=======================")
+print("|                     |")
+print("|     SAFARICOM       |")
+print("|        CENTRE       |")
+print("|                     |")
+print("| SIMU YA MWANANCHI   |")
+print("|                     |")
+print("|                     |")
+print("=======================")
