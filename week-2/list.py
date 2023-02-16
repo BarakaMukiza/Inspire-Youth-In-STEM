@@ -22,14 +22,15 @@ shoppings=vegetables+stationary
 print(shoppings)
 print(shoppings[5])
 
-#folu-looping until it is stopped-listing items individually
+#fol-looping until it is stopped-listing items individually
 for vegetable in vegetables:
     print(vegetable)
 
 for shopping in shoppings:
     print(shopping)
 
-print("my name is " + names[3] + " and my favourite fruit is " + fruits [1] )
+#using items in a list to make a sentence.
+print("my name is " + names[3] + " and my favourite fruit is " + fruits [1] ) 
 
 
 
