@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+#This is a single line comment
+#datatypes in python
+#Name : Baraka Mukiza
+# Email : barakakinyua2@gmail.com
+# 17th Feb,2023
+# File : Datatypes.py
 #variables - used to store information 
 #Floating vs non floating
 #floating
@@ -25,4 +32,6 @@ bio_grade = 'B'
 number = 13
 print("the square of the number is :",number **2)
 print("the cube of the number is :",number **3)
+
+
 

@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+#This is a single line comment
+#getting user input
+#Name : Baraka Mukiza
+# Email : barakakinyua2@gmail.com
+# 10th Feb,2023
+# File : user_input.py
 name=input("what is your name?")
 print("my name is",name)
 f_name=input("what is your first name?")

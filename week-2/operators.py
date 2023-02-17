@@ -35,3 +35,15 @@ num2 = 64 >> 2
 print(num1)
 print(num2)
 
+#ADD - &&
+
+
+#OR- ||
+
+
+#XOR- ^
+
+
+#NOT- !
+
+

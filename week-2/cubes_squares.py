@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+#This is a single line comment
+#Python program to calculate cubes and squares
+#Name : Baraka Mukiza
+# Email : barakakinyua2@gmail.com
+# 16th Feb,2023
+# File : cube_squares.py
 #program to print the squares and cubes of numbers 
 '''
 

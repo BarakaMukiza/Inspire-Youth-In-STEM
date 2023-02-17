@@ -1,4 +1,11 @@
-#ist of names
+#!/usr/bin/env python3
+#This is a single line comment
+#program to write lists
+#Name : Baraka Mukiza
+# Email : barakakinyua2@gmail.com
+# 15th Feb,2023
+# File : list.py
+#list of names
 names=["James","John","Peter","Gloria","Alex"]
 
 #accessing items in a list

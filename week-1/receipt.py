@@ -1,4 +1,11 @@
+#!/usr/bin/env python3
+#This is a single line comment
 #design a receipt
+#Name : Baraka Mukiza
+# Email : barakakinyua2@gmail.com
+# 9th Feb,2023
+# File : assignment-3.py
+
 bank_name="EQUITY BANK"
 branch_name="CBD BRANCH"
 email_acc="info@equitybank.co.ke"

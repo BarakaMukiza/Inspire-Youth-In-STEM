@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+#This is a single line comment
+#Python program to makea table to solve quadratic equation
+#Name : Baraka Mukiza
+# Email : barakakinyua2@gmail.com
+# 16th Feb,2023
+# File : quadratic_table.py
 #Make a table to solve quadratic equation
 from prettytable import PrettyTable
 

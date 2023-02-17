@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+#This is a single line comment
+#write a program to calculate mathematical expressions
+#Name : Baraka Mukiza
+# Email : barakakinyua2@gmail.com
+# 9th Feb,2023
+# File : maths.py
+
 f_num=30
 s_num=50 
 
