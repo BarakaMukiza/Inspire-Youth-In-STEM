@@ -1,7 +1,9 @@
-numbers =[]
-
-for number in numbers :
-    number = int(input("Enter the first ten numbers :"))
-    sum_num = sum_num +number
-avg_num = sum_num /10
-print(avg_num)
+#Assignment 10 : Get the average of numbers in a list by first entering them as input
+numbers = [] 
+n = int(input("Enter the number of elements: ")) 
+for i in range(0, n): 
+    elem = int(input("Enter the elements: ")) 
+    numbers.append(elem) 
+avg = sum(numbers)/n
+print("The created list: ",numbers)
+print("The average = ",avg) 
