@@ -5,7 +5,7 @@
 # Email : barakakinyua2@gmail.com
 # 20th Feb,2023
 # File : list_revisited.py
-
+'''
 #Naming convections
 #camel case
 myFavouriteFruits = ["mangos","apples","pineapple","passion","peaches"]
@@ -34,10 +34,13 @@ print(new_friends)
 #pop
 new_friends.pop()
 print(new_friends)
-
+'''
 #append
-elem = int(input("Enter name : "))
-new_friends.append()
+
+new_friends = ["Baraka","Mukiza"]
+
+elem = str(input("Enter name : "))
+new_friends.append(elem)
 print(new_friends)
 
 
