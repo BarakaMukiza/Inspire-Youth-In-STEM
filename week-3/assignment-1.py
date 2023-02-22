@@ -13,9 +13,9 @@
 #count the remaining celebrities
 
 musicians = []
-n = int(input("enter number of names required:"))
+n = int(input("enter number of names required:")) 
 for i in range (0,n):
-    elem = str(input("Enter the names of the musicians :"))
+    elem = (input("Enter the names of the musicians :"))
     musicians.append(elem)
 print("the created list of names:",musicians)
 celebs = musicians.copy()
