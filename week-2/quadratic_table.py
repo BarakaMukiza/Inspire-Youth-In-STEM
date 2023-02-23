@@ -6,7 +6,7 @@
 # 16th Feb,2023
 # File : quadratic_table.py
 #Make a table to solve quadratic equation
-from prettytable import PrettyTable
+import PrettyTable
 
 #specify the column names while initializing the table
 myTable = PrettyTable(["Variable","Value of x","Equation","Result"])

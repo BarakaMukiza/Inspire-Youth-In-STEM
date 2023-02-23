@@ -3,7 +3,7 @@
 #Python program to run for loop
 #Name : Baraka Mukiza
 # Email : barakakinyua2@gmail.com
-# 14th Feb,2023
+# 16th Feb,2023
 # File : for_loop.py
 for i in range (0,10):
     print(i)
@@ -14,12 +14,13 @@ for i in range (0,100):
 for i in range (20,100):
     print(i)
 
+print("------------------------------")
 sum = 0
 for i in range (0,10):
     sum = sum + i
 
 print(sum)
-
+print("------------------------------")
 #print product of the first 10 numbers
 product = 1
 for x in range (1,10):

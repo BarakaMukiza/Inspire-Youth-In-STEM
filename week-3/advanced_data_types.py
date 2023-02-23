@@ -54,15 +54,14 @@ print(friend["height"])
 print(friend.keys())
 print(friend.values())
 
+#4.sets used to store multiple items in a single variable
+my_fruits = {"mangoes","banana","peaches","tomoko"}
+for fruit in my_fruits:
+    print(fruit)
+
+print(type(my_fruits))
 
 
-
-
-
-
-
-
-#4.sets
 
 
 
