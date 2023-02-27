@@ -8,9 +8,9 @@
 #write a program to print the factorial of a number using functions- you can use a for loop
 def factorial(n):
     for i in range (1,n):
-        fact_n = n * i 
-        print(fact_n)
-factorial(3)
+        fact_n *= 1 + i 
+    return(fact_n)
+print(factorial(3))
 
 #write a program to calculate simple interest
 
@@ -18,4 +18,3 @@ def simp_intr(p,r,t):
     value = (p * r * t)/100
     print(value)
 simp_intr(40000,10,2)
-
