@@ -3,8 +3,8 @@
 #
 #Name : Baraka Mukiza
 # Email : barakakinyua2@gmail.com
-# 20th Feb,2023
-# File : list_revisited.py
+# 22th Feb,2023
+# File : .py
 
 #using the math library
 import math

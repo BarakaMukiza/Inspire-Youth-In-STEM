@@ -3,7 +3,7 @@
 #Python program to run condition to determine if a number is odd or even
 #Name : Baraka Mukiza
 # Email : barakakinyua2@gmail.com
-# 17th Feb,2023
+# 16th Feb,2023
 # File : odd-even.py
 number =int(input("enter the interger number : "))  
 if (number%2== 0):

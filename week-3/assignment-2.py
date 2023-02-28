@@ -10,7 +10,7 @@
 #using for loop draw a diamond
 #draw a triangle
 #draw pascals triangle
-'''
+
 import cmath
 
 a = int(input("enter the value of a :"))
@@ -26,7 +26,7 @@ print("The solution of the equation are {} and {}".format(sol1,sol2))
 
 print("--------------------------------------------------------------------------------")
 
-'''
+
 
 h = eval(input("enter the height of the diamond :"))
 
@@ -37,12 +37,12 @@ for x in range (h - 2, -1, -1) :
 
 print("----------------------------------------------")
 
-'''
+
 h = eval(input("enter the height of the triangle :"))
 
 for x in range (h) :
     print(" "* (h - x), "*" * (2*x + 1))
-'''
+
 print("----------------------------------------------")
 
 for i in range ( 1,h+1):

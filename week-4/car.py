@@ -1,5 +1,7 @@
 class car :
+    #class attributes
     def __init__ (self,model,make,year_of_manufacture,engine_capacity):
+        #instance attributes
         self.model = model
         self.make = make 
         self.year_of_manufacture = year_of_manufacture

@@ -25,8 +25,11 @@ else:
 
 fav_colour = "green"
 age = 22
-if((fav_colour == "green") | (age <= 20)):
+if((fav_colour == "green") | (age <= 20)): 
     print("happy birthday")
 else:
     print("No happy birthday present for you")
+
+#it still works since it acceps only one of the conditions
+
 
